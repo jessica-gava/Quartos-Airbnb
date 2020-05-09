@@ -1,0 +1,86 @@
+#cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+
+.card-price{
+  color: #FF385C;
+}
+
+#navbarSupportedContent{
+    width: 200%;
+}
+
+#menu{
+    padding: 0;
+    max-width: 1500px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 15px;
+}
+
+#menu2{
+  padding: 0;
+  max-width: 1500px;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 16px;
+}
+
+
+.dropdown-menu{
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 15px;
+}
+
+.dropdown-toggle img{
+  max-width: 45%;
+}
+
+#menu li a:hover{
+  background-color: rgb(248, 248, 248);
+  border-radius: 30px;
+}
+
+#menu2 li a:hover{
+  color: rgb(88, 88, 88);
+}
+
+.dropdown-item img{
+  max-width: 15%;
+}
+
+#botao{
+  border-radius: 30px;
+  width: 115px;
+  text-align: center;
+  box-shadow: darkgray 1px 1px 5px;
+}
+
+.botao2{
+  background-color: #FF385C;
+  border-radius: 4px;
+  color: #FFFFFF;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 18px;
+  margin-left: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  position: relative;
+  top: 6px;
+}
+
+h4{
+  text-align: center;
+  color: #FF385C;
+}
+
+.rodape{
+  background-color: rgb(233, 233, 233);
+  padding-top: 50px;
+  text-align: center;
+}
+
+
